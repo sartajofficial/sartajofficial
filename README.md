@@ -1,9 +1,7 @@
 
-<p align="center">
-  <img src="?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<h1 align="center">Hey Everyone!</h1>
 
-- 👋 Hi, I’m Sartaj
+- 👋 I’m Sartaj
 - 👀 I’m a Software Engineer.
 - 📫 Reach me on:
   <a href="https://www.instagram.com/itzz_sartaj/">
